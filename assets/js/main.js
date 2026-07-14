@@ -6,7 +6,7 @@ const TRANSLATIONS = {
   'nav.events': { en: 'Events', tr: 'Etkinlikler', nl: 'Agenda' },
   'nav.gallery': { en: 'Gallery', tr: 'Galeri', nl: 'Galerij' },
   'nav.book': { en: 'Book Dj Denden', tr: 'Booking Yap', nl: 'Boek Dj Denden' },
-  'hero.eyebrow': { en: 'Turkish Nights — Across Europe', tr: 'Türk Geceleri — Avrupa Genelinde', nl: 'Turkse Nachten — Heel Europa' },
+  'hero.eyebrow': { en: 'Turkish Pop Nights — Across Europe', tr: 'Türkçe Pop Geceleri — Avrupa Genelinde', nl: 'Turkish Pop Nights — Heel Europa' },
   'hero.tagline': {
     en: 'Unforgettable 90s nights, Turkish Pop events and private events — all across Turkey and Europe.',
     tr: 'Unutulmaz 90’lar geceleri, Türkçe Pop etkinlikleri ve özel etkinlikler… Türkiye ve Avrupa’nın her yerinde.',
@@ -42,9 +42,9 @@ const TRANSLATIONS = {
   'booking.email': { en: 'Email', tr: 'E-posta', nl: 'E-mail' },
   'footer.rights': { en: 'All rights reserved.', tr: 'Tüm hakları saklıdır.', nl: 'Alle rechten voorbehouden.' },
   'meta.title': {
-    en: 'DJ DENDEN — DJ & Turkish Nights, Europe',
-    tr: 'DJ DENDEN — Türk Gecelerinin DJ’i, Avrupa',
-    nl: 'DJ DENDEN — Turkse Nachten DJ, Europa',
+    en: 'DJ DENDEN — DJ & Turkish Pop Nights, Europe',
+    tr: 'DJ DENDEN — Türkçe Pop Gecelerinin DJ’i, Avrupa',
+    nl: 'DJ DENDEN — Turkish Pop Nights DJ, Europa',
   },
   'meta.description': {
     en: 'DJ DENDEN — Turkish DJ based in the Netherlands, playing across Europe & Turkey. 90s throwbacks, Turkish pop nights, weddings & private events.',
